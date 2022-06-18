@@ -1,0 +1,6 @@
+org\example\crawler\CrawlerApplication.class
+org\example\crawler\model\Crawler.class
+org\example\crawler\service\CrawlerService.class
+org\example\crawler\controller\CrawlerController.class
+org\example\crawler\repo\CrawlerRepository.class
+org\example\crawler\service\CrawlerService$1.class
